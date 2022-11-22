@@ -123,6 +123,10 @@ a {
   @include small {
     padding: 0.5rem 1rem;
   }
+  
+  .btn {
+    margin-bottom: 0; 
+  }
 }
 
 .project-name {
